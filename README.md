@@ -1,6 +1,6 @@
 # Detection of Alzheimer's Disease at Early Stages  
 
-This repository focuses on detecting Alzheimer’s disease at its early stages using Convolutional Neural Network (CNN) models. The project utilizes a large dataset of brain MRI images, categorized into four classes: **MildDemented**, **ModerateDemented**, **NonDemented**, and **VeryMildDemented**.
+Detecting Alzheimer’s disease at its early stages using Convolutional Neural Network (CNN) models. The project utilizes a large dataset of brain MRI images, categorized into four classes: **MildDemented**, **ModerateDemented**, **NonDemented**, and **VeryMildDemented**.
 
 ---
 
